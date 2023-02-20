@@ -1,4 +1,4 @@
-# Brooklyn Data Co. Looker style guide
+# Looker style guide
 - [General guidelines](#General-guidelines)
 - [LookML file management](#LookML-file-management)
   - [File browser](#File-browser)
